@@ -1,0 +1,15 @@
+#selenium-test-builder-panel {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 300px;
+    padding: 10px;
+    background: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    z-index: 10000;
+}
+
+.step {
+    margin: 5px 0;
+}
