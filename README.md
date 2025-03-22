@@ -15,6 +15,9 @@ The **Selenium Test Builder** is a Chrome extension designed to simplify the cre
 - **Target Web Application**: A running instance of your web app (e.g., `http://localhost:3000` from `selenium-cucumber-webapp`).
 - **Selenium-Cucumber-Test Suite**: The parent project must be set up with `tests.properties` in `src/test/resources/testdata/`.
 
+## Screenshot
+![screenshot](/builder.png)
+
 ## Installation
 
 1. **Clone or Download the Extension**:
@@ -175,4 +178,4 @@ selenium-test-builder/
 - Submit pull requests to enhance functionality or fix bugs.
 
 ## License
-MIT License (or specify your preferred license).
+MIT License.
