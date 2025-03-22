@@ -16,7 +16,7 @@ The **Selenium Test Builder** is a Chrome extension designed to simplify the cre
 - **Selenium-Cucumber-Test Suite**: The parent project must be set up with `tests.properties` in `src/test/resources/testdata/`.
 
 ## Screenshot
-![screenshot](/builder.png)
+![screenshot](/plugin.png)
 
 ## Installation
 
